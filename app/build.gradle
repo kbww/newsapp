@@ -1,9 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace "com.irfan.newsapp"
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.irfan.newsappstageii"
+        applicationId "com.example.irfan.newsapp"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
