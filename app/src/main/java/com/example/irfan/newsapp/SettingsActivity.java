@@ -7,7 +7,7 @@ import android.preference.Preference;
 import android.preference.PreferenceFragment;
 
 import android.preference.PreferenceManager;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 
 public class SettingsActivity extends AppCompatActivity {

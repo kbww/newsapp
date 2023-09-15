@@ -2,7 +2,6 @@ package com.example.irfan.newsapp;
 
 import android.content.AsyncTaskLoader;
 import android.content.Context;
-
 import java.util.List;
 
 

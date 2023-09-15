@@ -31,7 +31,7 @@
         <item>@string/settings_section_world_news_value</item>
     </string-array>
 
-    <string name="app_name">News App Stage II</string>
+    <string name="app_name">Newsapp</string>
     <string name="interneterrormessages">No internet connection!</string>
     <string name="contneterrormessages">No news found!</string>
 
