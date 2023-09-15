@@ -1,4 +1,4 @@
-package com.example.irfan.newsappstageii;
+package com.example.irfan.newsapp;
 
 import android.text.TextUtils;
 import android.util.Log;

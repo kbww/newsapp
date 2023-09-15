@@ -1,4 +1,4 @@
-package com.example.irfan.newsappstageii;
+package com.example.irfan.newsapp;
 
 public class News {
     private String mTitle;

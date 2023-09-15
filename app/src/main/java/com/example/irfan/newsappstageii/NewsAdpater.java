@@ -1,4 +1,4 @@
-package com.example.irfan.newsappstageii;
+package com.example.irfan.newsapp;
 
 import android.content.Context;
 import android.view.LayoutInflater;
